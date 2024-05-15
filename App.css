@@ -1,0 +1,17 @@
+ 
+
+.completed {
+  text-decoration: line-through;
+
+}
+
+.main-row{
+  height: 100vh;
+}
+.main-col{
+  max-width: 500px;
+  min-height: 300px;
+}
+
+
+
